@@ -1,10 +1,10 @@
 @font-face {
 	font-family: 'themify';
-	src:url('../fonts/themify.eot');
-	src:url('../fonts/themify_1.eot#iefix-fvbane') format('embedded-opentype'),
-		url('../fonts/themify.woff') format('woff'),
-		url('../fonts/themify.ttf') format('truetype'),
-		url('../fonts/themify.svg#themify') format('svg');
+	src:url('https://cdn.jsdelivr.net/gh/arifpujinugroho/asset/fonts/themify.eot');
+	src:url('https://cdn.jsdelivr.net/gh/arifpujinugroho/asset/fonts/themify_1.eot#iefix-fvbane') format('embedded-opentype'),
+		url('https://cdn.jsdelivr.net/gh/arifpujinugroho/asset/fonts/themify.woff') format('woff'),
+		url('https://cdn.jsdelivr.net/gh/arifpujinugroho/asset/fonts/themify.ttf') format('truetype'),
+		url('https://cdn.jsdelivr.net/gh/arifpujinugroho/asset/fonts/themify.svg#themify') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }

@@ -47,7 +47,7 @@ ul{
 /* dlab bnr inr */
 .dlab-bnr-inr.dlab-bnr-inr-shap:before {
     content: "";
-    background-image: url(https://marsa.arif.app/images/bnr-shap.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/arifpujinugroho/asset/images/bnr-shap.png);
     position: absolute;
     left: 0;
     width: 100%;
@@ -136,7 +136,7 @@ ul{
     left: 0;
     font-size: 45px;
     top: 5px;
-    background-image: url(https://marsa.arif.app/images/pattern6.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/arifpujinugroho/asset/images/pattern6.png);
     background-repeat: no-repeat;
     width: 45px;
     height: 45px;
@@ -274,7 +274,7 @@ ul{
     width: 100%;
     right: -60px;
     bottom: -40px;
-    background-image: url(https://marsa.arif.app/images/pattern7.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/arifpujinugroho/asset/images/pattern7.png);
     background-size: contain;
     z-index: 1;
     background-repeat: no-repeat;
@@ -287,7 +287,7 @@ ul{
     width: 100%;
     left: -60px;
     bottom: -40px;
-    background-image: url(https://marsa.arif.app/images/pattern8.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/arifpujinugroho/asset/images/pattern8.png);
     background-size: contain;
     z-index: 1;
     background-repeat: no-repeat;
@@ -304,7 +304,7 @@ ul{
 }
 .about-img5:after {
     content: "";
-    background-image: url(https://marsa.arif.app/images/shap.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/arifpujinugroho/asset/images/shap.png);
     background-size: cover;
     background-position: center;
     height: 100%;
@@ -587,7 +587,7 @@ ul{
     line-height: 24px;
 }
 .about-service-area1 .about-service1{
-    background-image: url(https://marsa.arif.app/images/pattern1.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/arifpujinugroho/asset/images/pattern1.png);
     background-repeat: no-repeat;
     background-position: center top 0;
 	padding: 20px 50px 0;
@@ -700,11 +700,11 @@ ul{
 }
 .about-service-area7 div:first-child .about-service7:after {
     top: 60px;
-    background-image: url(https://marsa.arif.app/images/service-arrow-1.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/arifpujinugroho/asset/images/service-arrow-1.png);
 }
 .about-service-area7 div:nth-child(2) .about-service7:after {
     top: 20px;
-	background-image: url(https://marsa.arif.app/images/service-arrow-2.png);
+	background-image: url(https://cdn.jsdelivr.net/gh/arifpujinugroho/asset/images/service-arrow-2.png);
 }
 .about-service-area7 div:last-child .about-service7:after {
 	display: none;
@@ -1694,7 +1694,7 @@ ul{
     padding: 15px 0 15px;
 }
 .testimonial-area1 .section-head {
-    background-image: url(https://marsa.arif.app/images/quote-right.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/arifpujinugroho/asset/images/quote-right.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: 100px;
@@ -1721,7 +1721,7 @@ ul{
     margin-bottom: 30px;
 }
 .testimonial-area1.style1 .testimonial-1 .testimonial-text {
-    background-image: url(https://marsa.arif.app/images/quote-right.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/arifpujinugroho/asset/images/quote-right.png);
     background-position: left 70px;
     background-repeat: no-repeat;
     background-size: 100px;
@@ -1735,7 +1735,7 @@ ul{
 	position: relative;
 }
 .testimonial-area1.style3 .testimonial-1 .testimonial-text:after {
-    background-image: url(https://marsa.arif.app/images/quote-right.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/arifpujinugroho/asset/images/quote-right.png);
     content: "";
     position: absolute;
     left: 0;
@@ -1936,7 +1936,7 @@ ul{
     position: absolute;
     bottom: 15px;
     left: 45%;
-    background-image: url(https://marsa.arif.app/images/pattern1_1.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/arifpujinugroho/asset/images/pattern1_1.png);
     height: 182px;
     width: 192px;
     background-repeat: no-repeat;
@@ -1960,7 +1960,7 @@ ul{
     z-index: 2;
 }
 .service-box.style3 .icon-bx{
-    background-image: url(https://marsa.arif.app/images/pattern1_2.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/arifpujinugroho/asset/images/pattern1_2.png);
     background-repeat: no-repeat;
     background-position: left top;
     float: left;
@@ -2468,7 +2468,7 @@ ul{
 
 /* home banner style2 */
 .home-banner.style2 h1 span {
-    background-image: url(https://marsa.arif.app/images/shap1.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/arifpujinugroho/asset/images/shap1.png);
     background-repeat: no-repeat;
     color: #fff;
     font-weight: 500;
@@ -2848,7 +2848,7 @@ ul{
 	z-index: 9;
 }
 .swiper-home .swiper-banner .title span {
-    background-image: url(https://marsa.arif.app/images/shap1.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/arifpujinugroho/asset/images/shap1.png);
     background-repeat: no-repeat;
     background-size: cover;
 	background-position: center;
