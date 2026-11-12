@@ -1,0 +1,3086 @@
+[
+  {
+    "id": 1,
+    "kode_provinsi": "11",
+    "kode": "1101",
+    "uraian": "Kab. Aceh Selatan"
+  },
+  {
+    "id": 2,
+    "kode_provinsi": "11",
+    "kode": "1102",
+    "uraian": "Kab. Aceh Tenggara"
+  },
+  {
+    "id": 3,
+    "kode_provinsi": "11",
+    "kode": "1103",
+    "uraian": "Kab. Aceh Timur"
+  },
+  {
+    "id": 4,
+    "kode_provinsi": "11",
+    "kode": "1104",
+    "uraian": "Kab. Aceh Tengah"
+  },
+  {
+    "id": 5,
+    "kode_provinsi": "11",
+    "kode": "1105",
+    "uraian": "Kab. Aceh Barat"
+  },
+  {
+    "id": 6,
+    "kode_provinsi": "11",
+    "kode": "1106",
+    "uraian": "Kab. Aceh Besar"
+  },
+  {
+    "id": 7,
+    "kode_provinsi": "11",
+    "kode": "1107",
+    "uraian": "Kab. Pidie"
+  },
+  {
+    "id": 8,
+    "kode_provinsi": "11",
+    "kode": "1108",
+    "uraian": "Kab. Aceh Utara"
+  },
+  {
+    "id": 9,
+    "kode_provinsi": "11",
+    "kode": "1109",
+    "uraian": "Kab. Simeulue"
+  },
+  {
+    "id": 10,
+    "kode_provinsi": "11",
+    "kode": "1110",
+    "uraian": "Kab. Aceh Singkil"
+  },
+  {
+    "id": 11,
+    "kode_provinsi": "11",
+    "kode": "1111",
+    "uraian": "Kab. Bireuen"
+  },
+  {
+    "id": 12,
+    "kode_provinsi": "11",
+    "kode": "1112",
+    "uraian": "Kab. Aceh Barat Daya"
+  },
+  {
+    "id": 13,
+    "kode_provinsi": "11",
+    "kode": "1113",
+    "uraian": "Kab. Gayo Lues"
+  },
+  {
+    "id": 14,
+    "kode_provinsi": "11",
+    "kode": "1114",
+    "uraian": "Kab. Aceh Jaya"
+  },
+  {
+    "id": 15,
+    "kode_provinsi": "11",
+    "kode": "1115",
+    "uraian": "Kab. Nagan Raya"
+  },
+  {
+    "id": 16,
+    "kode_provinsi": "11",
+    "kode": "1116",
+    "uraian": "Kab. Aceh Tamiang"
+  },
+  {
+    "id": 17,
+    "kode_provinsi": "11",
+    "kode": "1117",
+    "uraian": "Kab. Bener Meriah"
+  },
+  {
+    "id": 18,
+    "kode_provinsi": "11",
+    "kode": "1118",
+    "uraian": "Kab. Pidie Jaya"
+  },
+  {
+    "id": 19,
+    "kode_provinsi": "11",
+    "kode": "1171",
+    "uraian": "Kota Banda Aceh"
+  },
+  {
+    "id": 20,
+    "kode_provinsi": "11",
+    "kode": "1172",
+    "uraian": "Kota Sabang"
+  },
+  {
+    "id": 21,
+    "kode_provinsi": "11",
+    "kode": "1173",
+    "uraian": "Kota Lhokseumawe"
+  },
+  {
+    "id": 22,
+    "kode_provinsi": "11",
+    "kode": "1174",
+    "uraian": "Kota Langsa"
+  },
+  {
+    "id": 23,
+    "kode_provinsi": "11",
+    "kode": "1175",
+    "uraian": "Kota Subulussalam"
+  },
+  {
+    "id": 24,
+    "kode_provinsi": "12",
+    "kode": "1201",
+    "uraian": "Kab. Tapanuli Tengah"
+  },
+  {
+    "id": 25,
+    "kode_provinsi": "12",
+    "kode": "1202",
+    "uraian": "Kab. Tapanuli Utara"
+  },
+  {
+    "id": 26,
+    "kode_provinsi": "12",
+    "kode": "1203",
+    "uraian": "Kab. Tapanuli Selatan"
+  },
+  {
+    "id": 27,
+    "kode_provinsi": "12",
+    "kode": "1204",
+    "uraian": "Kab. Nias"
+  },
+  {
+    "id": 28,
+    "kode_provinsi": "12",
+    "kode": "1205",
+    "uraian": "Kab. Langkat"
+  },
+  {
+    "id": 29,
+    "kode_provinsi": "12",
+    "kode": "1206",
+    "uraian": "Kab. Karo"
+  },
+  {
+    "id": 30,
+    "kode_provinsi": "12",
+    "kode": "1207",
+    "uraian": "Kab. Deli Serdang"
+  },
+  {
+    "id": 31,
+    "kode_provinsi": "12",
+    "kode": "1208",
+    "uraian": "Kab. Simalungun"
+  },
+  {
+    "id": 32,
+    "kode_provinsi": "12",
+    "kode": "1209",
+    "uraian": "Kab. Asahan"
+  },
+  {
+    "id": 33,
+    "kode_provinsi": "12",
+    "kode": "1210",
+    "uraian": "Kab. Labuhanbatu"
+  },
+  {
+    "id": 34,
+    "kode_provinsi": "12",
+    "kode": "1211",
+    "uraian": "Kab. Dairi"
+  },
+  {
+    "id": 35,
+    "kode_provinsi": "12",
+    "kode": "1212",
+    "uraian": "Kab. Toba"
+  },
+  {
+    "id": 36,
+    "kode_provinsi": "12",
+    "kode": "1213",
+    "uraian": "Kab. Mandailing Natal"
+  },
+  {
+    "id": 37,
+    "kode_provinsi": "12",
+    "kode": "1214",
+    "uraian": "Kab. Nias Selatan"
+  },
+  {
+    "id": 38,
+    "kode_provinsi": "12",
+    "kode": "1215",
+    "uraian": "Kab. Pakpak Bharat"
+  },
+  {
+    "id": 39,
+    "kode_provinsi": "12",
+    "kode": "1216",
+    "uraian": "Kab. Humbang Hasundutan"
+  },
+  {
+    "id": 40,
+    "kode_provinsi": "12",
+    "kode": "1217",
+    "uraian": "Kab. Samosir"
+  },
+  {
+    "id": 41,
+    "kode_provinsi": "12",
+    "kode": "1218",
+    "uraian": "Kab. Serdang Bedagai"
+  },
+  {
+    "id": 42,
+    "kode_provinsi": "12",
+    "kode": "1219",
+    "uraian": "Kab. Batu Bara"
+  },
+  {
+    "id": 43,
+    "kode_provinsi": "12",
+    "kode": "1220",
+    "uraian": "Kab. Padang Lawas Utara"
+  },
+  {
+    "id": 44,
+    "kode_provinsi": "12",
+    "kode": "1221",
+    "uraian": "Kab. Padang Lawas"
+  },
+  {
+    "id": 45,
+    "kode_provinsi": "12",
+    "kode": "1222",
+    "uraian": "Kab. Labuhanbatu Selatan"
+  },
+  {
+    "id": 46,
+    "kode_provinsi": "12",
+    "kode": "1223",
+    "uraian": "Kab. Labuhanbatu Utara"
+  },
+  {
+    "id": 47,
+    "kode_provinsi": "12",
+    "kode": "1224",
+    "uraian": "Kab. Nias Utara"
+  },
+  {
+    "id": 48,
+    "kode_provinsi": "12",
+    "kode": "1225",
+    "uraian": "Kab. Nias Barat"
+  },
+  {
+    "id": 49,
+    "kode_provinsi": "12",
+    "kode": "1271",
+    "uraian": "Kota Medan"
+  },
+  {
+    "id": 50,
+    "kode_provinsi": "12",
+    "kode": "1272",
+    "uraian": "Kota Pematangsiantar"
+  },
+  {
+    "id": 51,
+    "kode_provinsi": "12",
+    "kode": "1273",
+    "uraian": "Kota Sibolga"
+  },
+  {
+    "id": 52,
+    "kode_provinsi": "12",
+    "kode": "1274",
+    "uraian": "Kota Tanjung Balai"
+  },
+  {
+    "id": 53,
+    "kode_provinsi": "12",
+    "kode": "1275",
+    "uraian": "Kota Binjai"
+  },
+  {
+    "id": 54,
+    "kode_provinsi": "12",
+    "kode": "1276",
+    "uraian": "Kota Tebing Tinggi"
+  },
+  {
+    "id": 55,
+    "kode_provinsi": "12",
+    "kode": "1277",
+    "uraian": "Kota Padang Sidempuan"
+  },
+  {
+    "id": 56,
+    "kode_provinsi": "12",
+    "kode": "1278",
+    "uraian": "Kota Gunungsitoli"
+  },
+  {
+    "id": 57,
+    "kode_provinsi": "13",
+    "kode": "1301",
+    "uraian": "Kab. Pesisir Selatan"
+  },
+  {
+    "id": 58,
+    "kode_provinsi": "13",
+    "kode": "1302",
+    "uraian": "Kab. Solok"
+  },
+  {
+    "id": 59,
+    "kode_provinsi": "13",
+    "kode": "1303",
+    "uraian": "Kab. Sijunjung"
+  },
+  {
+    "id": 60,
+    "kode_provinsi": "13",
+    "kode": "1304",
+    "uraian": "Kab. Tanah Datar"
+  },
+  {
+    "id": 61,
+    "kode_provinsi": "13",
+    "kode": "1305",
+    "uraian": "Kab. Padang Pariaman"
+  },
+  {
+    "id": 62,
+    "kode_provinsi": "13",
+    "kode": "1306",
+    "uraian": "Kab. Agam"
+  },
+  {
+    "id": 63,
+    "kode_provinsi": "13",
+    "kode": "1307",
+    "uraian": "Kab. Lima Puluh Kota"
+  },
+  {
+    "id": 64,
+    "kode_provinsi": "13",
+    "kode": "1308",
+    "uraian": "Kab. Pasaman"
+  },
+  {
+    "id": 65,
+    "kode_provinsi": "13",
+    "kode": "1309",
+    "uraian": "Kab. Kepulauan Mentawai"
+  },
+  {
+    "id": 66,
+    "kode_provinsi": "13",
+    "kode": "1310",
+    "uraian": "Kab. Dharmasraya"
+  },
+  {
+    "id": 67,
+    "kode_provinsi": "13",
+    "kode": "1311",
+    "uraian": "Kab. Solok Selatan"
+  },
+  {
+    "id": 68,
+    "kode_provinsi": "13",
+    "kode": "1312",
+    "uraian": "Kab. Pasaman Barat"
+  },
+  {
+    "id": 69,
+    "kode_provinsi": "13",
+    "kode": "1371",
+    "uraian": "Kota Padang"
+  },
+  {
+    "id": 70,
+    "kode_provinsi": "13",
+    "kode": "1372",
+    "uraian": "Kota Solok"
+  },
+  {
+    "id": 71,
+    "kode_provinsi": "13",
+    "kode": "1373",
+    "uraian": "Kota Sawahlunto"
+  },
+  {
+    "id": 72,
+    "kode_provinsi": "13",
+    "kode": "1374",
+    "uraian": "Kota Padang Panjang"
+  },
+  {
+    "id": 73,
+    "kode_provinsi": "13",
+    "kode": "1375",
+    "uraian": "Kota Bukittinggi"
+  },
+  {
+    "id": 74,
+    "kode_provinsi": "13",
+    "kode": "1376",
+    "uraian": "Kota Payakumbuh"
+  },
+  {
+    "id": 75,
+    "kode_provinsi": "13",
+    "kode": "1377",
+    "uraian": "Kota Pariaman"
+  },
+  {
+    "id": 76,
+    "kode_provinsi": "14",
+    "kode": "1401",
+    "uraian": "Kab. Kampar"
+  },
+  {
+    "id": 77,
+    "kode_provinsi": "14",
+    "kode": "1402",
+    "uraian": "Kab. Indragiri Hulu"
+  },
+  {
+    "id": 78,
+    "kode_provinsi": "14",
+    "kode": "1403",
+    "uraian": "Kab. Bengkalis"
+  },
+  {
+    "id": 79,
+    "kode_provinsi": "14",
+    "kode": "1404",
+    "uraian": "Kab. Indragiri Hilir"
+  },
+  {
+    "id": 80,
+    "kode_provinsi": "14",
+    "kode": "1405",
+    "uraian": "Kab. Pelalawan"
+  },
+  {
+    "id": 81,
+    "kode_provinsi": "14",
+    "kode": "1406",
+    "uraian": "Kab. Rokan Hulu"
+  },
+  {
+    "id": 82,
+    "kode_provinsi": "14",
+    "kode": "1407",
+    "uraian": "Kab. Rokan Hilir"
+  },
+  {
+    "id": 83,
+    "kode_provinsi": "14",
+    "kode": "1408",
+    "uraian": "Kab. Siak"
+  },
+  {
+    "id": 84,
+    "kode_provinsi": "14",
+    "kode": "1409",
+    "uraian": "Kab. Kuantan Singingi"
+  },
+  {
+    "id": 85,
+    "kode_provinsi": "14",
+    "kode": "1410",
+    "uraian": "Kab. Kepulauan Meranti"
+  },
+  {
+    "id": 86,
+    "kode_provinsi": "14",
+    "kode": "1471",
+    "uraian": "Kota Pekanbaru"
+  },
+  {
+    "id": 87,
+    "kode_provinsi": "14",
+    "kode": "1472",
+    "uraian": "Kota Dumai"
+  },
+  {
+    "id": 88,
+    "kode_provinsi": "15",
+    "kode": "1501",
+    "uraian": "Kab. Kerinci"
+  },
+  {
+    "id": 89,
+    "kode_provinsi": "15",
+    "kode": "1502",
+    "uraian": "Kab. Merangin"
+  },
+  {
+    "id": 90,
+    "kode_provinsi": "15",
+    "kode": "1503",
+    "uraian": "Kab. Sarolangun"
+  },
+  {
+    "id": 91,
+    "kode_provinsi": "15",
+    "kode": "1504",
+    "uraian": "Kab. Batanghari"
+  },
+  {
+    "id": 92,
+    "kode_provinsi": "15",
+    "kode": "1505",
+    "uraian": "Kab. Muaro Jambi"
+  },
+  {
+    "id": 93,
+    "kode_provinsi": "15",
+    "kode": "1506",
+    "uraian": "Kab. Tanjung Jabung Barat"
+  },
+  {
+    "id": 94,
+    "kode_provinsi": "15",
+    "kode": "1507",
+    "uraian": "Kab. Tanjung Jabung Timur"
+  },
+  {
+    "id": 95,
+    "kode_provinsi": "15",
+    "kode": "1508",
+    "uraian": "Kab. Bungo"
+  },
+  {
+    "id": 96,
+    "kode_provinsi": "15",
+    "kode": "1509",
+    "uraian": "Kab. Tebo"
+  },
+  {
+    "id": 97,
+    "kode_provinsi": "15",
+    "kode": "1571",
+    "uraian": "Kota Jambi"
+  },
+  {
+    "id": 98,
+    "kode_provinsi": "15",
+    "kode": "1572",
+    "uraian": "Kota Sungai Penuh"
+  },
+  {
+    "id": 99,
+    "kode_provinsi": "16",
+    "kode": "1601",
+    "uraian": "Kab. Ogan Komering Ulu"
+  },
+  {
+    "id": 100,
+    "kode_provinsi": "16",
+    "kode": "1602",
+    "uraian": "Kab. Ogan Komering Ilir"
+  },
+  {
+    "id": 101,
+    "kode_provinsi": "16",
+    "kode": "1603",
+    "uraian": "Kab. Muara Enim"
+  },
+  {
+    "id": 102,
+    "kode_provinsi": "16",
+    "kode": "1604",
+    "uraian": "Kab. Lahat"
+  },
+  {
+    "id": 103,
+    "kode_provinsi": "16",
+    "kode": "1605",
+    "uraian": "Kab. Musi Rawas"
+  },
+  {
+    "id": 104,
+    "kode_provinsi": "16",
+    "kode": "1606",
+    "uraian": "Kab. Musi Banyuasin"
+  },
+  {
+    "id": 105,
+    "kode_provinsi": "16",
+    "kode": "1607",
+    "uraian": "Kab. Banyuasin"
+  },
+  {
+    "id": 106,
+    "kode_provinsi": "16",
+    "kode": "1608",
+    "uraian": "Kab. Ogan Komering Ulu Timur"
+  },
+  {
+    "id": 107,
+    "kode_provinsi": "16",
+    "kode": "1609",
+    "uraian": "Kab. Ogan Komering Ulu Selatan"
+  },
+  {
+    "id": 108,
+    "kode_provinsi": "16",
+    "kode": "1610",
+    "uraian": "Kab. Ogan Ilir"
+  },
+  {
+    "id": 109,
+    "kode_provinsi": "16",
+    "kode": "1611",
+    "uraian": "Kab. Empat Lawang"
+  },
+  {
+    "id": 110,
+    "kode_provinsi": "16",
+    "kode": "1612",
+    "uraian": "Kab. Penukal Abab Lematang Ilir"
+  },
+  {
+    "id": 111,
+    "kode_provinsi": "16",
+    "kode": "1613",
+    "uraian": "Kab. Musi Rawas Utara"
+  },
+  {
+    "id": 112,
+    "kode_provinsi": "16",
+    "kode": "1671",
+    "uraian": "Kota Palembang"
+  },
+  {
+    "id": 113,
+    "kode_provinsi": "16",
+    "kode": "1672",
+    "uraian": "Kota Pagar Alam"
+  },
+  {
+    "id": 114,
+    "kode_provinsi": "16",
+    "kode": "1673",
+    "uraian": "Kota Lubuk Linggau"
+  },
+  {
+    "id": 115,
+    "kode_provinsi": "16",
+    "kode": "1674",
+    "uraian": "Kota Prabumulih"
+  },
+  {
+    "id": 116,
+    "kode_provinsi": "17",
+    "kode": "1701",
+    "uraian": "Kab. Bengkulu Selatan"
+  },
+  {
+    "id": 117,
+    "kode_provinsi": "17",
+    "kode": "1702",
+    "uraian": "Kab. Rejang Lebong"
+  },
+  {
+    "id": 118,
+    "kode_provinsi": "17",
+    "kode": "1703",
+    "uraian": "Kab. Bengkulu Utara"
+  },
+  {
+    "id": 119,
+    "kode_provinsi": "17",
+    "kode": "1704",
+    "uraian": "Kab. Kaur"
+  },
+  {
+    "id": 120,
+    "kode_provinsi": "17",
+    "kode": "1705",
+    "uraian": "Kab. Seluma"
+  },
+  {
+    "id": 121,
+    "kode_provinsi": "17",
+    "kode": "1706",
+    "uraian": "Kab. Muko Muko"
+  },
+  {
+    "id": 122,
+    "kode_provinsi": "17",
+    "kode": "1707",
+    "uraian": "Kab. Lebong"
+  },
+  {
+    "id": 123,
+    "kode_provinsi": "17",
+    "kode": "1708",
+    "uraian": "Kab. Kepahiang"
+  },
+  {
+    "id": 124,
+    "kode_provinsi": "17",
+    "kode": "1709",
+    "uraian": "Kab. Bengkulu Tengah"
+  },
+  {
+    "id": 125,
+    "kode_provinsi": "17",
+    "kode": "1771",
+    "uraian": "Kota Bengkulu"
+  },
+  {
+    "id": 126,
+    "kode_provinsi": "18",
+    "kode": "1801",
+    "uraian": "Kab. Lampung Selatan"
+  },
+  {
+    "id": 127,
+    "kode_provinsi": "18",
+    "kode": "1802",
+    "uraian": "Kab. Lampung Tengah"
+  },
+  {
+    "id": 128,
+    "kode_provinsi": "18",
+    "kode": "1803",
+    "uraian": "Kab. Lampung Utara"
+  },
+  {
+    "id": 129,
+    "kode_provinsi": "18",
+    "kode": "1804",
+    "uraian": "Kab. Lampung Barat"
+  },
+  {
+    "id": 130,
+    "kode_provinsi": "18",
+    "kode": "1805",
+    "uraian": "Kab. Tulang Bawang"
+  },
+  {
+    "id": 131,
+    "kode_provinsi": "18",
+    "kode": "1806",
+    "uraian": "Kab. Tanggamus"
+  },
+  {
+    "id": 132,
+    "kode_provinsi": "18",
+    "kode": "1807",
+    "uraian": "Kab. Lampung Timur"
+  },
+  {
+    "id": 133,
+    "kode_provinsi": "18",
+    "kode": "1808",
+    "uraian": "Kab. Way Kanan"
+  },
+  {
+    "id": 134,
+    "kode_provinsi": "18",
+    "kode": "1809",
+    "uraian": "Kab. Pesawaran"
+  },
+  {
+    "id": 135,
+    "kode_provinsi": "18",
+    "kode": "1810",
+    "uraian": "Kab. Pringsewu"
+  },
+  {
+    "id": 136,
+    "kode_provinsi": "18",
+    "kode": "1811",
+    "uraian": "Kab. Mesuji"
+  },
+  {
+    "id": 137,
+    "kode_provinsi": "18",
+    "kode": "1812",
+    "uraian": "Kab. Tulang Bawang Barat"
+  },
+  {
+    "id": 138,
+    "kode_provinsi": "18",
+    "kode": "1813",
+    "uraian": "Kab. Pesisir Barat"
+  },
+  {
+    "id": 139,
+    "kode_provinsi": "18",
+    "kode": "1871",
+    "uraian": "Kota Bandar Lampung"
+  },
+  {
+    "id": 140,
+    "kode_provinsi": "18",
+    "kode": "1872",
+    "uraian": "Kota Metro"
+  },
+  {
+    "id": 141,
+    "kode_provinsi": "19",
+    "kode": "1901",
+    "uraian": "Kab. Bangka"
+  },
+  {
+    "id": 142,
+    "kode_provinsi": "19",
+    "kode": "1902",
+    "uraian": "Kab. Belitung"
+  },
+  {
+    "id": 143,
+    "kode_provinsi": "19",
+    "kode": "1903",
+    "uraian": "Kab. Bangka Selatan"
+  },
+  {
+    "id": 144,
+    "kode_provinsi": "19",
+    "kode": "1904",
+    "uraian": "Kab. Bangka Tengah"
+  },
+  {
+    "id": 145,
+    "kode_provinsi": "19",
+    "kode": "1905",
+    "uraian": "Kab. Bangka Barat"
+  },
+  {
+    "id": 146,
+    "kode_provinsi": "19",
+    "kode": "1906",
+    "uraian": "Kab. Belitung Timur"
+  },
+  {
+    "id": 147,
+    "kode_provinsi": "19",
+    "kode": "1971",
+    "uraian": "Kota Pangkal Pinang"
+  },
+  {
+    "id": 148,
+    "kode_provinsi": "21",
+    "kode": "2101",
+    "uraian": "Kab. Bintan"
+  },
+  {
+    "id": 149,
+    "kode_provinsi": "21",
+    "kode": "2102",
+    "uraian": "Kab. Karimun"
+  },
+  {
+    "id": 150,
+    "kode_provinsi": "21",
+    "kode": "2103",
+    "uraian": "Kab. Natuna"
+  },
+  {
+    "id": 151,
+    "kode_provinsi": "21",
+    "kode": "2104",
+    "uraian": "Kab. Lingga"
+  },
+  {
+    "id": 152,
+    "kode_provinsi": "21",
+    "kode": "2105",
+    "uraian": "Kab. Kepulauan Anambas"
+  },
+  {
+    "id": 153,
+    "kode_provinsi": "21",
+    "kode": "2171",
+    "uraian": "Kota Batam"
+  },
+  {
+    "id": 154,
+    "kode_provinsi": "21",
+    "kode": "2172",
+    "uraian": "Kota Tanjung Pinang"
+  },
+  {
+    "id": 155,
+    "kode_provinsi": "31",
+    "kode": "3101",
+    "uraian": "Kab. Adm. Kep. Seribu"
+  },
+  {
+    "id": 156,
+    "kode_provinsi": "31",
+    "kode": "3171",
+    "uraian": "Kota Adm. Jakarta Pusat"
+  },
+  {
+    "id": 157,
+    "kode_provinsi": "31",
+    "kode": "3172",
+    "uraian": "Kota Adm. Jakarta Utara"
+  },
+  {
+    "id": 158,
+    "kode_provinsi": "31",
+    "kode": "3173",
+    "uraian": "Kota Adm. Jakarta Barat"
+  },
+  {
+    "id": 159,
+    "kode_provinsi": "31",
+    "kode": "3174",
+    "uraian": "Kota Adm. Jakarta Selatan"
+  },
+  {
+    "id": 160,
+    "kode_provinsi": "31",
+    "kode": "3175",
+    "uraian": "Kota Adm. Jakarta Timur"
+  },
+  {
+    "id": 161,
+    "kode_provinsi": "32",
+    "kode": "3201",
+    "uraian": "Kab. Bogor"
+  },
+  {
+    "id": 162,
+    "kode_provinsi": "32",
+    "kode": "3202",
+    "uraian": "Kab. Sukabumi"
+  },
+  {
+    "id": 163,
+    "kode_provinsi": "32",
+    "kode": "3203",
+    "uraian": "Kab. Cianjur"
+  },
+  {
+    "id": 164,
+    "kode_provinsi": "32",
+    "kode": "3204",
+    "uraian": "Kab. Bandung"
+  },
+  {
+    "id": 165,
+    "kode_provinsi": "32",
+    "kode": "3205",
+    "uraian": "Kab. Garut"
+  },
+  {
+    "id": 166,
+    "kode_provinsi": "32",
+    "kode": "3206",
+    "uraian": "Kab. Tasikmalaya"
+  },
+  {
+    "id": 167,
+    "kode_provinsi": "32",
+    "kode": "3207",
+    "uraian": "Kab. Ciamis"
+  },
+  {
+    "id": 168,
+    "kode_provinsi": "32",
+    "kode": "3208",
+    "uraian": "Kab. Kuningan"
+  },
+  {
+    "id": 169,
+    "kode_provinsi": "32",
+    "kode": "3209",
+    "uraian": "Kab. Cirebon"
+  },
+  {
+    "id": 170,
+    "kode_provinsi": "32",
+    "kode": "3210",
+    "uraian": "Kab. Majalengka"
+  },
+  {
+    "id": 171,
+    "kode_provinsi": "32",
+    "kode": "3211",
+    "uraian": "Kab. Sumedang"
+  },
+  {
+    "id": 172,
+    "kode_provinsi": "32",
+    "kode": "3212",
+    "uraian": "Kab. Indramayu"
+  },
+  {
+    "id": 173,
+    "kode_provinsi": "32",
+    "kode": "3213",
+    "uraian": "Kab. Subang"
+  },
+  {
+    "id": 174,
+    "kode_provinsi": "32",
+    "kode": "3214",
+    "uraian": "Kab. Purwakarta"
+  },
+  {
+    "id": 175,
+    "kode_provinsi": "32",
+    "kode": "3215",
+    "uraian": "Kab. Karawang"
+  },
+  {
+    "id": 176,
+    "kode_provinsi": "32",
+    "kode": "3216",
+    "uraian": "Kab. Bekasi"
+  },
+  {
+    "id": 177,
+    "kode_provinsi": "32",
+    "kode": "3217",
+    "uraian": "Kab. Bandung Barat"
+  },
+  {
+    "id": 178,
+    "kode_provinsi": "32",
+    "kode": "3218",
+    "uraian": "Kab. Pangandaran"
+  },
+  {
+    "id": 179,
+    "kode_provinsi": "32",
+    "kode": "3271",
+    "uraian": "Kota Bogor"
+  },
+  {
+    "id": 180,
+    "kode_provinsi": "32",
+    "kode": "3272",
+    "uraian": "Kota Sukabumi"
+  },
+  {
+    "id": 181,
+    "kode_provinsi": "32",
+    "kode": "3273",
+    "uraian": "Kota Bandung"
+  },
+  {
+    "id": 182,
+    "kode_provinsi": "32",
+    "kode": "3274",
+    "uraian": "Kota Cirebon"
+  },
+  {
+    "id": 183,
+    "kode_provinsi": "32",
+    "kode": "3275",
+    "uraian": "Kota Bekasi"
+  },
+  {
+    "id": 184,
+    "kode_provinsi": "32",
+    "kode": "3276",
+    "uraian": "Kota Depok"
+  },
+  {
+    "id": 185,
+    "kode_provinsi": "32",
+    "kode": "3277",
+    "uraian": "Kota Cimahi"
+  },
+  {
+    "id": 186,
+    "kode_provinsi": "32",
+    "kode": "3278",
+    "uraian": "Kota Tasikmalaya"
+  },
+  {
+    "id": 187,
+    "kode_provinsi": "32",
+    "kode": "3279",
+    "uraian": "Kota Banjar"
+  },
+  {
+    "id": 188,
+    "kode_provinsi": "33",
+    "kode": "3301",
+    "uraian": "Kab. Cilacap"
+  },
+  {
+    "id": 189,
+    "kode_provinsi": "33",
+    "kode": "3302",
+    "uraian": "Kab. Banyumas"
+  },
+  {
+    "id": 190,
+    "kode_provinsi": "33",
+    "kode": "3303",
+    "uraian": "Kab. Purbalingga"
+  },
+  {
+    "id": 191,
+    "kode_provinsi": "33",
+    "kode": "3304",
+    "uraian": "Kab. Banjarnegara"
+  },
+  {
+    "id": 192,
+    "kode_provinsi": "33",
+    "kode": "3305",
+    "uraian": "Kab. Kebumen"
+  },
+  {
+    "id": 193,
+    "kode_provinsi": "33",
+    "kode": "3306",
+    "uraian": "Kab. Purworejo"
+  },
+  {
+    "id": 194,
+    "kode_provinsi": "33",
+    "kode": "3307",
+    "uraian": "Kab. Wonosobo"
+  },
+  {
+    "id": 195,
+    "kode_provinsi": "33",
+    "kode": "3308",
+    "uraian": "Kab. Magelang"
+  },
+  {
+    "id": 196,
+    "kode_provinsi": "33",
+    "kode": "3309",
+    "uraian": "Kab. Boyolali"
+  },
+  {
+    "id": 197,
+    "kode_provinsi": "33",
+    "kode": "3310",
+    "uraian": "Kab. Klaten"
+  },
+  {
+    "id": 198,
+    "kode_provinsi": "33",
+    "kode": "3311",
+    "uraian": "Kab. Sukoharjo"
+  },
+  {
+    "id": 199,
+    "kode_provinsi": "33",
+    "kode": "3312",
+    "uraian": "Kab. Wonogiri"
+  },
+  {
+    "id": 200,
+    "kode_provinsi": "33",
+    "kode": "3313",
+    "uraian": "Kab. Karanganyar"
+  },
+  {
+    "id": 201,
+    "kode_provinsi": "33",
+    "kode": "3314",
+    "uraian": "Kab. Sragen"
+  },
+  {
+    "id": 202,
+    "kode_provinsi": "33",
+    "kode": "3315",
+    "uraian": "Kab. Grobogan"
+  },
+  {
+    "id": 203,
+    "kode_provinsi": "33",
+    "kode": "3316",
+    "uraian": "Kab. Blora"
+  },
+  {
+    "id": 204,
+    "kode_provinsi": "33",
+    "kode": "3317",
+    "uraian": "Kab. Rembang"
+  },
+  {
+    "id": 205,
+    "kode_provinsi": "33",
+    "kode": "3318",
+    "uraian": "Kab. Pati"
+  },
+  {
+    "id": 206,
+    "kode_provinsi": "33",
+    "kode": "3319",
+    "uraian": "Kab. Kudus"
+  },
+  {
+    "id": 207,
+    "kode_provinsi": "33",
+    "kode": "3320",
+    "uraian": "Kab. Jepara"
+  },
+  {
+    "id": 208,
+    "kode_provinsi": "33",
+    "kode": "3321",
+    "uraian": "Kab. Demak"
+  },
+  {
+    "id": 209,
+    "kode_provinsi": "33",
+    "kode": "3322",
+    "uraian": "Kab. Semarang"
+  },
+  {
+    "id": 210,
+    "kode_provinsi": "33",
+    "kode": "3323",
+    "uraian": "Kab. Temanggung"
+  },
+  {
+    "id": 211,
+    "kode_provinsi": "33",
+    "kode": "3324",
+    "uraian": "Kab. Kendal"
+  },
+  {
+    "id": 212,
+    "kode_provinsi": "33",
+    "kode": "3325",
+    "uraian": "Kab. Batang"
+  },
+  {
+    "id": 213,
+    "kode_provinsi": "33",
+    "kode": "3326",
+    "uraian": "Kab. Pekalongan"
+  },
+  {
+    "id": 214,
+    "kode_provinsi": "33",
+    "kode": "3327",
+    "uraian": "Kab. Pemalang"
+  },
+  {
+    "id": 215,
+    "kode_provinsi": "33",
+    "kode": "3328",
+    "uraian": "Kab. Tegal"
+  },
+  {
+    "id": 216,
+    "kode_provinsi": "33",
+    "kode": "3329",
+    "uraian": "Kab. Brebes"
+  },
+  {
+    "id": 217,
+    "kode_provinsi": "33",
+    "kode": "3371",
+    "uraian": "Kota Magelang"
+  },
+  {
+    "id": 218,
+    "kode_provinsi": "33",
+    "kode": "3372",
+    "uraian": "Kota Surakarta"
+  },
+  {
+    "id": 219,
+    "kode_provinsi": "33",
+    "kode": "3373",
+    "uraian": "Kota Salatiga"
+  },
+  {
+    "id": 220,
+    "kode_provinsi": "33",
+    "kode": "3374",
+    "uraian": "Kota Semarang"
+  },
+  {
+    "id": 221,
+    "kode_provinsi": "33",
+    "kode": "3375",
+    "uraian": "Kota Pekalongan"
+  },
+  {
+    "id": 222,
+    "kode_provinsi": "33",
+    "kode": "3376",
+    "uraian": "Kota Tegal"
+  },
+  {
+    "id": 223,
+    "kode_provinsi": "34",
+    "kode": "3401",
+    "uraian": "Kab. Kulon Progo"
+  },
+  {
+    "id": 224,
+    "kode_provinsi": "34",
+    "kode": "3402",
+    "uraian": "Kab. Bantul"
+  },
+  {
+    "id": 225,
+    "kode_provinsi": "34",
+    "kode": "3403",
+    "uraian": "Kab. Gunungkidul"
+  },
+  {
+    "id": 226,
+    "kode_provinsi": "34",
+    "kode": "3404",
+    "uraian": "Kab. Sleman"
+  },
+  {
+    "id": 227,
+    "kode_provinsi": "34",
+    "kode": "3471",
+    "uraian": "Kota Yogyakarta"
+  },
+  {
+    "id": 228,
+    "kode_provinsi": "35",
+    "kode": "3501",
+    "uraian": "Kab. Pacitan"
+  },
+  {
+    "id": 229,
+    "kode_provinsi": "35",
+    "kode": "3502",
+    "uraian": "Kab. Ponorogo"
+  },
+  {
+    "id": 230,
+    "kode_provinsi": "35",
+    "kode": "3503",
+    "uraian": "Kab. Trenggalek"
+  },
+  {
+    "id": 231,
+    "kode_provinsi": "35",
+    "kode": "3504",
+    "uraian": "Kab. Tulungagung"
+  },
+  {
+    "id": 232,
+    "kode_provinsi": "35",
+    "kode": "3505",
+    "uraian": "Kab. Blitar"
+  },
+  {
+    "id": 233,
+    "kode_provinsi": "35",
+    "kode": "3506",
+    "uraian": "Kab. Kediri"
+  },
+  {
+    "id": 234,
+    "kode_provinsi": "35",
+    "kode": "3507",
+    "uraian": "Kab. Malang"
+  },
+  {
+    "id": 235,
+    "kode_provinsi": "35",
+    "kode": "3508",
+    "uraian": "Kab. Lumajang"
+  },
+  {
+    "id": 236,
+    "kode_provinsi": "35",
+    "kode": "3509",
+    "uraian": "Kab. Jember"
+  },
+  {
+    "id": 237,
+    "kode_provinsi": "35",
+    "kode": "3510",
+    "uraian": "Kab. Banyuwangi"
+  },
+  {
+    "id": 238,
+    "kode_provinsi": "35",
+    "kode": "3511",
+    "uraian": "Kab. Bondowoso"
+  },
+  {
+    "id": 239,
+    "kode_provinsi": "35",
+    "kode": "3512",
+    "uraian": "Kab. Situbondo"
+  },
+  {
+    "id": 240,
+    "kode_provinsi": "35",
+    "kode": "3513",
+    "uraian": "Kab. Probolinggo"
+  },
+  {
+    "id": 241,
+    "kode_provinsi": "35",
+    "kode": "3514",
+    "uraian": "Kab. Pasuruan"
+  },
+  {
+    "id": 242,
+    "kode_provinsi": "35",
+    "kode": "3515",
+    "uraian": "Kab. Sidoarjo"
+  },
+  {
+    "id": 243,
+    "kode_provinsi": "35",
+    "kode": "3516",
+    "uraian": "Kab. Mojokerto"
+  },
+  {
+    "id": 244,
+    "kode_provinsi": "35",
+    "kode": "3517",
+    "uraian": "Kab. Jombang"
+  },
+  {
+    "id": 245,
+    "kode_provinsi": "35",
+    "kode": "3518",
+    "uraian": "Kab. Nganjuk"
+  },
+  {
+    "id": 246,
+    "kode_provinsi": "35",
+    "kode": "3519",
+    "uraian": "Kab. Madiun"
+  },
+  {
+    "id": 247,
+    "kode_provinsi": "35",
+    "kode": "3520",
+    "uraian": "Kab. Magetan"
+  },
+  {
+    "id": 248,
+    "kode_provinsi": "35",
+    "kode": "3521",
+    "uraian": "Kab. Ngawi"
+  },
+  {
+    "id": 249,
+    "kode_provinsi": "35",
+    "kode": "3522",
+    "uraian": "Kab. Bojonegoro"
+  },
+  {
+    "id": 250,
+    "kode_provinsi": "35",
+    "kode": "3523",
+    "uraian": "Kab. Tuban"
+  },
+  {
+    "id": 251,
+    "kode_provinsi": "35",
+    "kode": "3524",
+    "uraian": "Kab. Lamongan"
+  },
+  {
+    "id": 252,
+    "kode_provinsi": "35",
+    "kode": "3525",
+    "uraian": "Kab. Gresik"
+  },
+  {
+    "id": 253,
+    "kode_provinsi": "35",
+    "kode": "3526",
+    "uraian": "Kab. Bangkalan"
+  },
+  {
+    "id": 254,
+    "kode_provinsi": "35",
+    "kode": "3527",
+    "uraian": "Kab. Sampang"
+  },
+  {
+    "id": 255,
+    "kode_provinsi": "35",
+    "kode": "3528",
+    "uraian": "Kab. Pamekasan"
+  },
+  {
+    "id": 256,
+    "kode_provinsi": "35",
+    "kode": "3529",
+    "uraian": "Kab. Sumenep"
+  },
+  {
+    "id": 257,
+    "kode_provinsi": "35",
+    "kode": "3571",
+    "uraian": "Kota Kediri"
+  },
+  {
+    "id": 258,
+    "kode_provinsi": "35",
+    "kode": "3572",
+    "uraian": "Kota Blitar"
+  },
+  {
+    "id": 259,
+    "kode_provinsi": "35",
+    "kode": "3573",
+    "uraian": "Kota Malang"
+  },
+  {
+    "id": 260,
+    "kode_provinsi": "35",
+    "kode": "3574",
+    "uraian": "Kota Probolinggo"
+  },
+  {
+    "id": 261,
+    "kode_provinsi": "35",
+    "kode": "3575",
+    "uraian": "Kota Pasuruan"
+  },
+  {
+    "id": 262,
+    "kode_provinsi": "35",
+    "kode": "3576",
+    "uraian": "Kota Mojokerto"
+  },
+  {
+    "id": 263,
+    "kode_provinsi": "35",
+    "kode": "3577",
+    "uraian": "Kota Madiun"
+  },
+  {
+    "id": 264,
+    "kode_provinsi": "35",
+    "kode": "3578",
+    "uraian": "Kota Surabaya"
+  },
+  {
+    "id": 265,
+    "kode_provinsi": "35",
+    "kode": "3579",
+    "uraian": "Kota Batu"
+  },
+  {
+    "id": 266,
+    "kode_provinsi": "36",
+    "kode": "3601",
+    "uraian": "Kab. Pandeglang"
+  },
+  {
+    "id": 267,
+    "kode_provinsi": "36",
+    "kode": "3602",
+    "uraian": "Kab. Lebak"
+  },
+  {
+    "id": 268,
+    "kode_provinsi": "36",
+    "kode": "3603",
+    "uraian": "Kab. Tangerang"
+  },
+  {
+    "id": 269,
+    "kode_provinsi": "36",
+    "kode": "3604",
+    "uraian": "Kab. Serang"
+  },
+  {
+    "id": 270,
+    "kode_provinsi": "36",
+    "kode": "3671",
+    "uraian": "Kota Tangerang"
+  },
+  {
+    "id": 271,
+    "kode_provinsi": "36",
+    "kode": "3672",
+    "uraian": "Kota Cilegon"
+  },
+  {
+    "id": 272,
+    "kode_provinsi": "36",
+    "kode": "3673",
+    "uraian": "Kota Serang"
+  },
+  {
+    "id": 273,
+    "kode_provinsi": "36",
+    "kode": "3674",
+    "uraian": "Kota Tangerang Selatan"
+  },
+  {
+    "id": 274,
+    "kode_provinsi": "51",
+    "kode": "5101",
+    "uraian": "Kab. Jembrana"
+  },
+  {
+    "id": 275,
+    "kode_provinsi": "51",
+    "kode": "5102",
+    "uraian": "Kab. Tabanan"
+  },
+  {
+    "id": 276,
+    "kode_provinsi": "51",
+    "kode": "5103",
+    "uraian": "Kab. Badung"
+  },
+  {
+    "id": 277,
+    "kode_provinsi": "51",
+    "kode": "5104",
+    "uraian": "Kab. Gianyar"
+  },
+  {
+    "id": 278,
+    "kode_provinsi": "51",
+    "kode": "5105",
+    "uraian": "Kab. Klungkung"
+  },
+  {
+    "id": 279,
+    "kode_provinsi": "51",
+    "kode": "5106",
+    "uraian": "Kab. Bangli"
+  },
+  {
+    "id": 280,
+    "kode_provinsi": "51",
+    "kode": "5107",
+    "uraian": "Kab. Karangasem"
+  },
+  {
+    "id": 281,
+    "kode_provinsi": "51",
+    "kode": "5108",
+    "uraian": "Kab. Buleleng"
+  },
+  {
+    "id": 282,
+    "kode_provinsi": "51",
+    "kode": "5171",
+    "uraian": "Kota Denpasar"
+  },
+  {
+    "id": 283,
+    "kode_provinsi": "52",
+    "kode": "5201",
+    "uraian": "Kab. Lombok Barat"
+  },
+  {
+    "id": 284,
+    "kode_provinsi": "52",
+    "kode": "5202",
+    "uraian": "Kab. Lombok Tengah"
+  },
+  {
+    "id": 285,
+    "kode_provinsi": "52",
+    "kode": "5203",
+    "uraian": "Kab. Lombok Timur"
+  },
+  {
+    "id": 286,
+    "kode_provinsi": "52",
+    "kode": "5204",
+    "uraian": "Kab. Sumbawa"
+  },
+  {
+    "id": 287,
+    "kode_provinsi": "52",
+    "kode": "5205",
+    "uraian": "Kab. Dompu"
+  },
+  {
+    "id": 288,
+    "kode_provinsi": "52",
+    "kode": "5206",
+    "uraian": "Kab. Bima"
+  },
+  {
+    "id": 289,
+    "kode_provinsi": "52",
+    "kode": "5207",
+    "uraian": "Kab. Sumbawa Barat"
+  },
+  {
+    "id": 290,
+    "kode_provinsi": "52",
+    "kode": "5208",
+    "uraian": "Kab. Lombok Utara"
+  },
+  {
+    "id": 291,
+    "kode_provinsi": "52",
+    "kode": "5271",
+    "uraian": "Kota Mataram"
+  },
+  {
+    "id": 292,
+    "kode_provinsi": "52",
+    "kode": "5272",
+    "uraian": "Kota Bima"
+  },
+  {
+    "id": 293,
+    "kode_provinsi": "53",
+    "kode": "5301",
+    "uraian": "Kab. Kupang"
+  },
+  {
+    "id": 294,
+    "kode_provinsi": "53",
+    "kode": "5302",
+    "uraian": "Kab. Timor Tengah Selatan"
+  },
+  {
+    "id": 295,
+    "kode_provinsi": "53",
+    "kode": "5303",
+    "uraian": "Kab. Timor Tengah Utara"
+  },
+  {
+    "id": 296,
+    "kode_provinsi": "53",
+    "kode": "5304",
+    "uraian": "Kab. Belu"
+  },
+  {
+    "id": 297,
+    "kode_provinsi": "53",
+    "kode": "5305",
+    "uraian": "Kab. Alor"
+  },
+  {
+    "id": 298,
+    "kode_provinsi": "53",
+    "kode": "5306",
+    "uraian": "Kab. Flores Timur"
+  },
+  {
+    "id": 299,
+    "kode_provinsi": "53",
+    "kode": "5307",
+    "uraian": "Kab. Sikka"
+  },
+  {
+    "id": 300,
+    "kode_provinsi": "53",
+    "kode": "5308",
+    "uraian": "Kab. Ende"
+  },
+  {
+    "id": 301,
+    "kode_provinsi": "53",
+    "kode": "5309",
+    "uraian": "Kab. Ngada"
+  },
+  {
+    "id": 302,
+    "kode_provinsi": "53",
+    "kode": "5310",
+    "uraian": "Kab. Manggarai"
+  },
+  {
+    "id": 303,
+    "kode_provinsi": "53",
+    "kode": "5311",
+    "uraian": "Kab. Sumba Timur"
+  },
+  {
+    "id": 304,
+    "kode_provinsi": "53",
+    "kode": "5312",
+    "uraian": "Kab. Sumba Barat"
+  },
+  {
+    "id": 305,
+    "kode_provinsi": "53",
+    "kode": "5313",
+    "uraian": "Kab. Lembata"
+  },
+  {
+    "id": 306,
+    "kode_provinsi": "53",
+    "kode": "5314",
+    "uraian": "Kab. Rote Ndao"
+  },
+  {
+    "id": 307,
+    "kode_provinsi": "53",
+    "kode": "5315",
+    "uraian": "Kab. Manggarai Barat"
+  },
+  {
+    "id": 308,
+    "kode_provinsi": "53",
+    "kode": "5316",
+    "uraian": "Kab. Nagekeo"
+  },
+  {
+    "id": 309,
+    "kode_provinsi": "53",
+    "kode": "5317",
+    "uraian": "Kab. Sumba Tengah"
+  },
+  {
+    "id": 310,
+    "kode_provinsi": "53",
+    "kode": "5318",
+    "uraian": "Kab. Sumba Barat Daya"
+  },
+  {
+    "id": 311,
+    "kode_provinsi": "53",
+    "kode": "5319",
+    "uraian": "Kab. Manggarai Timur"
+  },
+  {
+    "id": 312,
+    "kode_provinsi": "53",
+    "kode": "5320",
+    "uraian": "Kab. Sabu Raijua"
+  },
+  {
+    "id": 313,
+    "kode_provinsi": "53",
+    "kode": "5321",
+    "uraian": "Kab. Malaka"
+  },
+  {
+    "id": 314,
+    "kode_provinsi": "53",
+    "kode": "5371",
+    "uraian": "Kota Kupang"
+  },
+  {
+    "id": 315,
+    "kode_provinsi": "61",
+    "kode": "6101",
+    "uraian": "Kab. Sambas"
+  },
+  {
+    "id": 316,
+    "kode_provinsi": "61",
+    "kode": "6102",
+    "uraian": "Kab. Mempawah"
+  },
+  {
+    "id": 317,
+    "kode_provinsi": "61",
+    "kode": "6103",
+    "uraian": "Kab. Sanggau"
+  },
+  {
+    "id": 318,
+    "kode_provinsi": "61",
+    "kode": "6104",
+    "uraian": "Kab. Ketapang"
+  },
+  {
+    "id": 319,
+    "kode_provinsi": "61",
+    "kode": "6105",
+    "uraian": "Kab. Sintang"
+  },
+  {
+    "id": 320,
+    "kode_provinsi": "61",
+    "kode": "6106",
+    "uraian": "Kab. Kapuas Hulu"
+  },
+  {
+    "id": 321,
+    "kode_provinsi": "61",
+    "kode": "6107",
+    "uraian": "Kab. Bengkayang"
+  },
+  {
+    "id": 322,
+    "kode_provinsi": "61",
+    "kode": "6108",
+    "uraian": "Kab. Landak"
+  },
+  {
+    "id": 323,
+    "kode_provinsi": "61",
+    "kode": "6109",
+    "uraian": "Kab. Sekadau"
+  },
+  {
+    "id": 324,
+    "kode_provinsi": "61",
+    "kode": "6110",
+    "uraian": "Kab. Melawi"
+  },
+  {
+    "id": 325,
+    "kode_provinsi": "61",
+    "kode": "6111",
+    "uraian": "Kab. Kayong Utara"
+  },
+  {
+    "id": 326,
+    "kode_provinsi": "61",
+    "kode": "6112",
+    "uraian": "Kab. Kubu Raya"
+  },
+  {
+    "id": 327,
+    "kode_provinsi": "61",
+    "kode": "6171",
+    "uraian": "Kota Pontianak"
+  },
+  {
+    "id": 328,
+    "kode_provinsi": "61",
+    "kode": "6172",
+    "uraian": "Kota Singkawang"
+  },
+  {
+    "id": 329,
+    "kode_provinsi": "62",
+    "kode": "6201",
+    "uraian": "Kab. Kotawaringin Barat"
+  },
+  {
+    "id": 330,
+    "kode_provinsi": "62",
+    "kode": "6202",
+    "uraian": "Kab. Kotawaringin Timur"
+  },
+  {
+    "id": 331,
+    "kode_provinsi": "62",
+    "kode": "6203",
+    "uraian": "Kab. Kapuas"
+  },
+  {
+    "id": 332,
+    "kode_provinsi": "62",
+    "kode": "6204",
+    "uraian": "Kab. Barito Selatan"
+  },
+  {
+    "id": 333,
+    "kode_provinsi": "62",
+    "kode": "6205",
+    "uraian": "Kab. Barito Utara"
+  },
+  {
+    "id": 334,
+    "kode_provinsi": "62",
+    "kode": "6206",
+    "uraian": "Kab. Katingan"
+  },
+  {
+    "id": 335,
+    "kode_provinsi": "62",
+    "kode": "6207",
+    "uraian": "Kab. Seruyan"
+  },
+  {
+    "id": 336,
+    "kode_provinsi": "62",
+    "kode": "6208",
+    "uraian": "Kab. Sukamara"
+  },
+  {
+    "id": 337,
+    "kode_provinsi": "62",
+    "kode": "6209",
+    "uraian": "Kab. Lamandau"
+  },
+  {
+    "id": 338,
+    "kode_provinsi": "62",
+    "kode": "6210",
+    "uraian": "Kab. Gunung Mas"
+  },
+  {
+    "id": 339,
+    "kode_provinsi": "62",
+    "kode": "6211",
+    "uraian": "Kab. Pulang Pisau"
+  },
+  {
+    "id": 340,
+    "kode_provinsi": "62",
+    "kode": "6212",
+    "uraian": "Kab. Murung Raya"
+  },
+  {
+    "id": 341,
+    "kode_provinsi": "62",
+    "kode": "6213",
+    "uraian": "Kab. Barito Timur"
+  },
+  {
+    "id": 342,
+    "kode_provinsi": "62",
+    "kode": "6271",
+    "uraian": "Kota Palangkaraya"
+  },
+  {
+    "id": 343,
+    "kode_provinsi": "63",
+    "kode": "6301",
+    "uraian": "Kab. Tanah Laut"
+  },
+  {
+    "id": 344,
+    "kode_provinsi": "63",
+    "kode": "6302",
+    "uraian": "Kab. Kotabaru"
+  },
+  {
+    "id": 345,
+    "kode_provinsi": "63",
+    "kode": "6303",
+    "uraian": "Kab. Banjar"
+  },
+  {
+    "id": 346,
+    "kode_provinsi": "63",
+    "kode": "6304",
+    "uraian": "Kab. Barito Kuala"
+  },
+  {
+    "id": 347,
+    "kode_provinsi": "63",
+    "kode": "6305",
+    "uraian": "Kab. Tapin"
+  },
+  {
+    "id": 348,
+    "kode_provinsi": "63",
+    "kode": "6306",
+    "uraian": "Kab. Hulu Sungai Selatan"
+  },
+  {
+    "id": 349,
+    "kode_provinsi": "63",
+    "kode": "6307",
+    "uraian": "Kab. Hulu Sungai Tengah"
+  },
+  {
+    "id": 350,
+    "kode_provinsi": "63",
+    "kode": "6308",
+    "uraian": "Kab. Hulu Sungai Utara"
+  },
+  {
+    "id": 351,
+    "kode_provinsi": "63",
+    "kode": "6309",
+    "uraian": "Kab. Tabalong"
+  },
+  {
+    "id": 352,
+    "kode_provinsi": "63",
+    "kode": "6310",
+    "uraian": "Kab. Tanah Bumbu"
+  },
+  {
+    "id": 353,
+    "kode_provinsi": "63",
+    "kode": "6311",
+    "uraian": "Kab. Balangan"
+  },
+  {
+    "id": 354,
+    "kode_provinsi": "63",
+    "kode": "6371",
+    "uraian": "Kota Banjarmasin"
+  },
+  {
+    "id": 355,
+    "kode_provinsi": "63",
+    "kode": "6372",
+    "uraian": "Kota Banjarbaru"
+  },
+  {
+    "id": 356,
+    "kode_provinsi": "64",
+    "kode": "6401",
+    "uraian": "Kab. Paser"
+  },
+  {
+    "id": 357,
+    "kode_provinsi": "64",
+    "kode": "6402",
+    "uraian": "Kab. Kutai Kartanegara"
+  },
+  {
+    "id": 358,
+    "kode_provinsi": "64",
+    "kode": "6403",
+    "uraian": "Kab. Berau"
+  },
+  {
+    "id": 359,
+    "kode_provinsi": "64",
+    "kode": "6407",
+    "uraian": "Kab. Kutai Barat"
+  },
+  {
+    "id": 360,
+    "kode_provinsi": "64",
+    "kode": "6408",
+    "uraian": "Kab. Kutai Timur"
+  },
+  {
+    "id": 361,
+    "kode_provinsi": "64",
+    "kode": "6409",
+    "uraian": "Kab. Penajam Paser Utara"
+  },
+  {
+    "id": 362,
+    "kode_provinsi": "64",
+    "kode": "6411",
+    "uraian": "Kab. Mahakam Ulu"
+  },
+  {
+    "id": 363,
+    "kode_provinsi": "64",
+    "kode": "6471",
+    "uraian": "Kota Balikpapan"
+  },
+  {
+    "id": 364,
+    "kode_provinsi": "64",
+    "kode": "6472",
+    "uraian": "Kota Samarinda"
+  },
+  {
+    "id": 365,
+    "kode_provinsi": "64",
+    "kode": "6474",
+    "uraian": "Kota Bontang"
+  },
+  {
+    "id": 366,
+    "kode_provinsi": "65",
+    "kode": "6501",
+    "uraian": "Kab. Bulungan"
+  },
+  {
+    "id": 367,
+    "kode_provinsi": "65",
+    "kode": "6502",
+    "uraian": "Kab. Malinau"
+  },
+  {
+    "id": 368,
+    "kode_provinsi": "65",
+    "kode": "6503",
+    "uraian": "Kab. Nunukan"
+  },
+  {
+    "id": 369,
+    "kode_provinsi": "65",
+    "kode": "6504",
+    "uraian": "Kab. Tana Tidung"
+  },
+  {
+    "id": 370,
+    "kode_provinsi": "65",
+    "kode": "6571",
+    "uraian": "Kota Tarakan"
+  },
+  {
+    "id": 371,
+    "kode_provinsi": "71",
+    "kode": "7101",
+    "uraian": "Kab. Bolaang Mongondow"
+  },
+  {
+    "id": 372,
+    "kode_provinsi": "71",
+    "kode": "7102",
+    "uraian": "Kab. Minahasa"
+  },
+  {
+    "id": 373,
+    "kode_provinsi": "71",
+    "kode": "7103",
+    "uraian": "Kab. Kepulauan Sangihe"
+  },
+  {
+    "id": 374,
+    "kode_provinsi": "71",
+    "kode": "7104",
+    "uraian": "Kab. Kepulauan Talaud"
+  },
+  {
+    "id": 375,
+    "kode_provinsi": "71",
+    "kode": "7105",
+    "uraian": "Kab. Minahasa Selatan"
+  },
+  {
+    "id": 376,
+    "kode_provinsi": "71",
+    "kode": "7106",
+    "uraian": "Kab. Minahasa Utara"
+  },
+  {
+    "id": 377,
+    "kode_provinsi": "71",
+    "kode": "7107",
+    "uraian": "Kab. Minahasa Tenggara"
+  },
+  {
+    "id": 378,
+    "kode_provinsi": "71",
+    "kode": "7108",
+    "uraian": "Kab. Bolaang Mongondow Utara"
+  },
+  {
+    "id": 379,
+    "kode_provinsi": "71",
+    "kode": "7109",
+    "uraian": "Kab. Kep. Siau Tagulandang Biaro"
+  },
+  {
+    "id": 380,
+    "kode_provinsi": "71",
+    "kode": "7110",
+    "uraian": "Kab. Bolaang Mongondow Timur"
+  },
+  {
+    "id": 381,
+    "kode_provinsi": "71",
+    "kode": "7111",
+    "uraian": "Kab. Bolaang Mongondow Selatan"
+  },
+  {
+    "id": 382,
+    "kode_provinsi": "71",
+    "kode": "7171",
+    "uraian": "Kota Manado"
+  },
+  {
+    "id": 383,
+    "kode_provinsi": "71",
+    "kode": "7172",
+    "uraian": "Kota Bitung"
+  },
+  {
+    "id": 384,
+    "kode_provinsi": "71",
+    "kode": "7173",
+    "uraian": "Kota Tomohon"
+  },
+  {
+    "id": 385,
+    "kode_provinsi": "71",
+    "kode": "7174",
+    "uraian": "Kota Kotamobagu"
+  },
+  {
+    "id": 386,
+    "kode_provinsi": "72",
+    "kode": "7201",
+    "uraian": "Kab. Banggai"
+  },
+  {
+    "id": 387,
+    "kode_provinsi": "72",
+    "kode": "7202",
+    "uraian": "Kab. Poso"
+  },
+  {
+    "id": 388,
+    "kode_provinsi": "72",
+    "kode": "7203",
+    "uraian": "Kab. Donggala"
+  },
+  {
+    "id": 389,
+    "kode_provinsi": "72",
+    "kode": "7204",
+    "uraian": "Kab. Toli Toli"
+  },
+  {
+    "id": 390,
+    "kode_provinsi": "72",
+    "kode": "7205",
+    "uraian": "Kab. Buol"
+  },
+  {
+    "id": 391,
+    "kode_provinsi": "72",
+    "kode": "7206",
+    "uraian": "Kab. Morowali"
+  },
+  {
+    "id": 392,
+    "kode_provinsi": "72",
+    "kode": "7207",
+    "uraian": "Kab. Banggai Kepulauan"
+  },
+  {
+    "id": 393,
+    "kode_provinsi": "72",
+    "kode": "7208",
+    "uraian": "Kab. Parigi Moutong"
+  },
+  {
+    "id": 394,
+    "kode_provinsi": "72",
+    "kode": "7209",
+    "uraian": "Kab. Tojo Una Una"
+  },
+  {
+    "id": 395,
+    "kode_provinsi": "72",
+    "kode": "7210",
+    "uraian": "Kab. Sigi"
+  },
+  {
+    "id": 396,
+    "kode_provinsi": "72",
+    "kode": "7211",
+    "uraian": "Kab. Banggai Laut"
+  },
+  {
+    "id": 397,
+    "kode_provinsi": "72",
+    "kode": "7212",
+    "uraian": "Kab. Morowali Utara"
+  },
+  {
+    "id": 398,
+    "kode_provinsi": "72",
+    "kode": "7271",
+    "uraian": "Kota Palu"
+  },
+  {
+    "id": 399,
+    "kode_provinsi": "73",
+    "kode": "7301",
+    "uraian": "Kab. Kepulauan Selayar"
+  },
+  {
+    "id": 400,
+    "kode_provinsi": "73",
+    "kode": "7302",
+    "uraian": "Kab. Bulukumba"
+  },
+  {
+    "id": 401,
+    "kode_provinsi": "73",
+    "kode": "7303",
+    "uraian": "Kab. Bantaeng"
+  },
+  {
+    "id": 402,
+    "kode_provinsi": "73",
+    "kode": "7304",
+    "uraian": "Kab. Jeneponto"
+  },
+  {
+    "id": 403,
+    "kode_provinsi": "73",
+    "kode": "7305",
+    "uraian": "Kab. Takalar"
+  },
+  {
+    "id": 404,
+    "kode_provinsi": "73",
+    "kode": "7306",
+    "uraian": "Kab. Gowa"
+  },
+  {
+    "id": 405,
+    "kode_provinsi": "73",
+    "kode": "7307",
+    "uraian": "Kab. Sinjai"
+  },
+  {
+    "id": 406,
+    "kode_provinsi": "73",
+    "kode": "7308",
+    "uraian": "Kab. Bone"
+  },
+  {
+    "id": 407,
+    "kode_provinsi": "73",
+    "kode": "7309",
+    "uraian": "Kab. Maros"
+  },
+  {
+    "id": 408,
+    "kode_provinsi": "73",
+    "kode": "7310",
+    "uraian": "Kab. Pangkajene Dan Kepulauan"
+  },
+  {
+    "id": 409,
+    "kode_provinsi": "73",
+    "kode": "7311",
+    "uraian": "Kab. Barru"
+  },
+  {
+    "id": 410,
+    "kode_provinsi": "73",
+    "kode": "7312",
+    "uraian": "Kab. Soppeng"
+  },
+  {
+    "id": 411,
+    "kode_provinsi": "73",
+    "kode": "7313",
+    "uraian": "Kab. Wajo"
+  },
+  {
+    "id": 412,
+    "kode_provinsi": "73",
+    "kode": "7314",
+    "uraian": "Kab. Sidenreng Rappang"
+  },
+  {
+    "id": 413,
+    "kode_provinsi": "73",
+    "kode": "7315",
+    "uraian": "Kab. Pinrang"
+  },
+  {
+    "id": 414,
+    "kode_provinsi": "73",
+    "kode": "7316",
+    "uraian": "Kab. Enrekang"
+  },
+  {
+    "id": 415,
+    "kode_provinsi": "73",
+    "kode": "7317",
+    "uraian": "Kab. Luwu"
+  },
+  {
+    "id": 416,
+    "kode_provinsi": "73",
+    "kode": "7318",
+    "uraian": "Kab. Tana Toraja"
+  },
+  {
+    "id": 417,
+    "kode_provinsi": "73",
+    "kode": "7322",
+    "uraian": "Kab. Luwu Utara"
+  },
+  {
+    "id": 418,
+    "kode_provinsi": "73",
+    "kode": "7324",
+    "uraian": "Kab. Luwu Timur"
+  },
+  {
+    "id": 419,
+    "kode_provinsi": "73",
+    "kode": "7326",
+    "uraian": "Kab. Toraja Utara"
+  },
+  {
+    "id": 420,
+    "kode_provinsi": "73",
+    "kode": "7371",
+    "uraian": "Kota Makassar"
+  },
+  {
+    "id": 421,
+    "kode_provinsi": "73",
+    "kode": "7372",
+    "uraian": "Kota Parepare"
+  },
+  {
+    "id": 422,
+    "kode_provinsi": "73",
+    "kode": "7373",
+    "uraian": "Kota Palopo"
+  },
+  {
+    "id": 423,
+    "kode_provinsi": "74",
+    "kode": "7401",
+    "uraian": "Kab. Kolaka"
+  },
+  {
+    "id": 424,
+    "kode_provinsi": "74",
+    "kode": "7402",
+    "uraian": "Kab. Konawe"
+  },
+  {
+    "id": 425,
+    "kode_provinsi": "74",
+    "kode": "7403",
+    "uraian": "Kab. Muna"
+  },
+  {
+    "id": 426,
+    "kode_provinsi": "74",
+    "kode": "7404",
+    "uraian": "Kab. Buton"
+  },
+  {
+    "id": 427,
+    "kode_provinsi": "74",
+    "kode": "7405",
+    "uraian": "Kab. Konawe Selatan"
+  },
+  {
+    "id": 428,
+    "kode_provinsi": "74",
+    "kode": "7406",
+    "uraian": "Kab. Bombana"
+  },
+  {
+    "id": 429,
+    "kode_provinsi": "74",
+    "kode": "7407",
+    "uraian": "Kab. Wakatobi"
+  },
+  {
+    "id": 430,
+    "kode_provinsi": "74",
+    "kode": "7408",
+    "uraian": "Kab. Kolaka Utara"
+  },
+  {
+    "id": 431,
+    "kode_provinsi": "74",
+    "kode": "7409",
+    "uraian": "Kab. Konawe Utara"
+  },
+  {
+    "id": 432,
+    "kode_provinsi": "74",
+    "kode": "7410",
+    "uraian": "Kab. Buton Utara"
+  },
+  {
+    "id": 433,
+    "kode_provinsi": "74",
+    "kode": "7411",
+    "uraian": "Kab. Kolaka Timur"
+  },
+  {
+    "id": 434,
+    "kode_provinsi": "74",
+    "kode": "7412",
+    "uraian": "Kab. Konawe Kepulauan"
+  },
+  {
+    "id": 435,
+    "kode_provinsi": "74",
+    "kode": "7413",
+    "uraian": "Kab. Muna Barat"
+  },
+  {
+    "id": 436,
+    "kode_provinsi": "74",
+    "kode": "7414",
+    "uraian": "Kab. Buton Tengah"
+  },
+  {
+    "id": 437,
+    "kode_provinsi": "74",
+    "kode": "7415",
+    "uraian": "Kab. Buton Selatan"
+  },
+  {
+    "id": 438,
+    "kode_provinsi": "74",
+    "kode": "7471",
+    "uraian": "Kota Kendari"
+  },
+  {
+    "id": 439,
+    "kode_provinsi": "74",
+    "kode": "7472",
+    "uraian": "Kota Bau Bau"
+  },
+  {
+    "id": 440,
+    "kode_provinsi": "75",
+    "kode": "7501",
+    "uraian": "Kab. Gorontalo"
+  },
+  {
+    "id": 441,
+    "kode_provinsi": "75",
+    "kode": "7502",
+    "uraian": "Kab. Boalemo"
+  },
+  {
+    "id": 442,
+    "kode_provinsi": "75",
+    "kode": "7503",
+    "uraian": "Kab. Bone Bolango"
+  },
+  {
+    "id": 443,
+    "kode_provinsi": "75",
+    "kode": "7504",
+    "uraian": "Kab. Pohuwato"
+  },
+  {
+    "id": 444,
+    "kode_provinsi": "75",
+    "kode": "7505",
+    "uraian": "Kab. Gorontalo Utara"
+  },
+  {
+    "id": 445,
+    "kode_provinsi": "75",
+    "kode": "7571",
+    "uraian": "Kota Gorontalo"
+  },
+  {
+    "id": 446,
+    "kode_provinsi": "76",
+    "kode": "7601",
+    "uraian": "Kab. Pasangkayu"
+  },
+  {
+    "id": 447,
+    "kode_provinsi": "76",
+    "kode": "7602",
+    "uraian": "Kab. Mamuju"
+  },
+  {
+    "id": 448,
+    "kode_provinsi": "76",
+    "kode": "7603",
+    "uraian": "Kab. Mamasa"
+  },
+  {
+    "id": 449,
+    "kode_provinsi": "76",
+    "kode": "7604",
+    "uraian": "Kab. Polewali Mandar"
+  },
+  {
+    "id": 450,
+    "kode_provinsi": "76",
+    "kode": "7605",
+    "uraian": "Kab. Majene"
+  },
+  {
+    "id": 451,
+    "kode_provinsi": "76",
+    "kode": "7606",
+    "uraian": "Kab. Mamuju Tengah"
+  },
+  {
+    "id": 452,
+    "kode_provinsi": "81",
+    "kode": "8101",
+    "uraian": "Kab. Maluku Tengah"
+  },
+  {
+    "id": 453,
+    "kode_provinsi": "81",
+    "kode": "8102",
+    "uraian": "Kab. Maluku Tenggara"
+  },
+  {
+    "id": 454,
+    "kode_provinsi": "81",
+    "kode": "8103",
+    "uraian": "Kab. Kepulauan Tanimbar"
+  },
+  {
+    "id": 455,
+    "kode_provinsi": "81",
+    "kode": "8104",
+    "uraian": "Kab. Buru"
+  },
+  {
+    "id": 456,
+    "kode_provinsi": "81",
+    "kode": "8105",
+    "uraian": "Kab. Seram Bagian Timur"
+  },
+  {
+    "id": 457,
+    "kode_provinsi": "81",
+    "kode": "8106",
+    "uraian": "Kab. Seram Bagian Barat"
+  },
+  {
+    "id": 458,
+    "kode_provinsi": "81",
+    "kode": "8107",
+    "uraian": "Kab. Kepulauan Aru"
+  },
+  {
+    "id": 459,
+    "kode_provinsi": "81",
+    "kode": "8108",
+    "uraian": "Kab. Maluku Barat Daya"
+  },
+  {
+    "id": 460,
+    "kode_provinsi": "81",
+    "kode": "8109",
+    "uraian": "Kab. Buru Selatan"
+  },
+  {
+    "id": 461,
+    "kode_provinsi": "81",
+    "kode": "8171",
+    "uraian": "Kota Ambon"
+  },
+  {
+    "id": 462,
+    "kode_provinsi": "81",
+    "kode": "8172",
+    "uraian": "Kota Tual"
+  },
+  {
+    "id": 463,
+    "kode_provinsi": "82",
+    "kode": "8201",
+    "uraian": "Kab. Halmahera Barat"
+  },
+  {
+    "id": 464,
+    "kode_provinsi": "82",
+    "kode": "8202",
+    "uraian": "Kab. Halmahera Tengah"
+  },
+  {
+    "id": 465,
+    "kode_provinsi": "82",
+    "kode": "8203",
+    "uraian": "Kab. Halmahera Utara"
+  },
+  {
+    "id": 466,
+    "kode_provinsi": "82",
+    "kode": "8204",
+    "uraian": "Kab. Halmahera Selatan"
+  },
+  {
+    "id": 467,
+    "kode_provinsi": "82",
+    "kode": "8205",
+    "uraian": "Kab. Kepulauan Sula"
+  },
+  {
+    "id": 468,
+    "kode_provinsi": "82",
+    "kode": "8206",
+    "uraian": "Kab. Halmahera Timur"
+  },
+  {
+    "id": 469,
+    "kode_provinsi": "82",
+    "kode": "8207",
+    "uraian": "Kab. Pulau Morotai"
+  },
+  {
+    "id": 470,
+    "kode_provinsi": "82",
+    "kode": "8208",
+    "uraian": "Kab. Pulau Taliabu"
+  },
+  {
+    "id": 471,
+    "kode_provinsi": "82",
+    "kode": "8271",
+    "uraian": "Kota Ternate"
+  },
+  {
+    "id": 472,
+    "kode_provinsi": "82",
+    "kode": "8272",
+    "uraian": "Kota Tidore Kepulauan"
+  },
+  {
+    "id": 473,
+    "kode_provinsi": "91",
+    "kode": "9103",
+    "uraian": "Kab. Jayapura"
+  },
+  {
+    "id": 474,
+    "kode_provinsi": "91",
+    "kode": "9105",
+    "uraian": "Kab. Kepulauan Yapen"
+  },
+  {
+    "id": 475,
+    "kode_provinsi": "91",
+    "kode": "9106",
+    "uraian": "Kab. Biak Numfor"
+  },
+  {
+    "id": 476,
+    "kode_provinsi": "91",
+    "kode": "9110",
+    "uraian": "Kab. Sarmi"
+  },
+  {
+    "id": 477,
+    "kode_provinsi": "91",
+    "kode": "9111",
+    "uraian": "Kab. Keerom"
+  },
+  {
+    "id": 478,
+    "kode_provinsi": "91",
+    "kode": "9115",
+    "uraian": "Kab. Waropen"
+  },
+  {
+    "id": 479,
+    "kode_provinsi": "91",
+    "kode": "9119",
+    "uraian": "Kab. Supiori"
+  },
+  {
+    "id": 480,
+    "kode_provinsi": "91",
+    "kode": "9120",
+    "uraian": "Kab. Mamberamo Raya"
+  },
+  {
+    "id": 481,
+    "kode_provinsi": "91",
+    "kode": "9171",
+    "uraian": "Kota Jayapura"
+  },
+  {
+    "id": 482,
+    "kode_provinsi": "92",
+    "kode": "9202",
+    "uraian": "Kab. Manokwari"
+  },
+  {
+    "id": 483,
+    "kode_provinsi": "92",
+    "kode": "9203",
+    "uraian": "Kab. Fak Fak"
+  },
+  {
+    "id": 484,
+    "kode_provinsi": "92",
+    "kode": "9206",
+    "uraian": "Kab. Teluk Bintuni"
+  },
+  {
+    "id": 485,
+    "kode_provinsi": "92",
+    "kode": "9207",
+    "uraian": "Kab. Teluk Wondama"
+  },
+  {
+    "id": 486,
+    "kode_provinsi": "92",
+    "kode": "9208",
+    "uraian": "Kab. Kaimana"
+  },
+  {
+    "id": 487,
+    "kode_provinsi": "92",
+    "kode": "9211",
+    "uraian": "Kab. Manokwari Selatan"
+  },
+  {
+    "id": 488,
+    "kode_provinsi": "92",
+    "kode": "9212",
+    "uraian": "Kab. Pegunungan Arfak"
+  },
+  {
+    "id": 489,
+    "kode_provinsi": "93",
+    "kode": "9301",
+    "uraian": "Kab. Merauke"
+  },
+  {
+    "id": 490,
+    "kode_provinsi": "93",
+    "kode": "9302",
+    "uraian": "Kab. Boven Digoel"
+  },
+  {
+    "id": 491,
+    "kode_provinsi": "93",
+    "kode": "9303",
+    "uraian": "Kab. Mappi"
+  },
+  {
+    "id": 492,
+    "kode_provinsi": "93",
+    "kode": "9304",
+    "uraian": "Kab. Asmat"
+  },
+  {
+    "id": 493,
+    "kode_provinsi": "94",
+    "kode": "9401",
+    "uraian": "Kab. Nabire"
+  },
+  {
+    "id": 494,
+    "kode_provinsi": "94",
+    "kode": "9402",
+    "uraian": "Kab. Puncak Jaya"
+  },
+  {
+    "id": 495,
+    "kode_provinsi": "94",
+    "kode": "9403",
+    "uraian": "Kab. Paniai"
+  },
+  {
+    "id": 496,
+    "kode_provinsi": "94",
+    "kode": "9404",
+    "uraian": "Kab. Mimika"
+  },
+  {
+    "id": 497,
+    "kode_provinsi": "94",
+    "kode": "9405",
+    "uraian": "Kab. Puncak"
+  },
+  {
+    "id": 498,
+    "kode_provinsi": "94",
+    "kode": "9406",
+    "uraian": "Kab. Dogiyai"
+  },
+  {
+    "id": 499,
+    "kode_provinsi": "94",
+    "kode": "9407",
+    "uraian": "Kab. Intan Jaya"
+  },
+  {
+    "id": 500,
+    "kode_provinsi": "94",
+    "kode": "9408",
+    "uraian": "Kab. Deiyai"
+  },
+  {
+    "id": 501,
+    "kode_provinsi": "95",
+    "kode": "9501",
+    "uraian": "Kab. Jayawijaya"
+  },
+  {
+    "id": 502,
+    "kode_provinsi": "95",
+    "kode": "9502",
+    "uraian": "Kab Pegunungan Bintang"
+  },
+  {
+    "id": 503,
+    "kode_provinsi": "95",
+    "kode": "9503",
+    "uraian": "Kab. Yahukimo"
+  },
+  {
+    "id": 504,
+    "kode_provinsi": "95",
+    "kode": "9504",
+    "uraian": "Kab. Tolikara"
+  },
+  {
+    "id": 505,
+    "kode_provinsi": "95",
+    "kode": "9505",
+    "uraian": "Kab. Mamberamo Tengah"
+  },
+  {
+    "id": 506,
+    "kode_provinsi": "95",
+    "kode": "9506",
+    "uraian": "Kab. Yalimo"
+  },
+  {
+    "id": 507,
+    "kode_provinsi": "95",
+    "kode": "9507",
+    "uraian": "Kab. Lanny Jaya"
+  },
+  {
+    "id": 508,
+    "kode_provinsi": "95",
+    "kode": "9508",
+    "uraian": "Kab. Nduga"
+  },
+  {
+    "id": 509,
+    "kode_provinsi": "96",
+    "kode": "9601",
+    "uraian": "Kab. Sorong"
+  },
+  {
+    "id": 510,
+    "kode_provinsi": "96",
+    "kode": "9602",
+    "uraian": "Kab. Sorong Selatan"
+  },
+  {
+    "id": 511,
+    "kode_provinsi": "96",
+    "kode": "9603",
+    "uraian": "Kab. Raja Ampat"
+  },
+  {
+    "id": 512,
+    "kode_provinsi": "96",
+    "kode": "9604",
+    "uraian": "Kab. Tambrauw"
+  },
+  {
+    "id": 513,
+    "kode_provinsi": "96",
+    "kode": "9605",
+    "uraian": "Kab. Maybrat"
+  },
+  {
+    "id": 514,
+    "kode_provinsi": "96",
+    "kode": "9671",
+    "uraian": "Kota Sorong"
+  }
+]
